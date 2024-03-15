@@ -1,3 +1,5 @@
+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
+
 <h1 align="center">GitHub Advanced Security Workshop</h1>
 <p align="center">
   <a href="#mega-prerequisites">Prerequisites</a> •  
