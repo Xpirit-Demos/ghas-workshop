@@ -1,5 +1,3 @@
-"MongoConnectionString": "mongodb://myservername:SKiEI5tRk55K4r4dwUCF5viVEWZmJsSJ9lUVHUM1xgVRuoGQqilhCTqquOPSPyaw7x7DUAen5f4eACDbs9d9Vg==@myservernamehere.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@myservernamehere@"
-
 <h1 align="center">GitHub Advanced Security Workshop</h1>
 <p align="center">
   <a href="#mega-prerequisites">Prerequisites</a> •  
